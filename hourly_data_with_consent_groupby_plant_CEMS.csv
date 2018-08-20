@@ -1,0 +1,407 @@
+,plant_name,CEMS,pollution_charge
+0,ACC Limited,CEMS-1,427387.1637506434
+1,ACC Limited,CEMS-2,1777413.0353225807
+2,ACC Limited,CEMS-3,401488.038
+3,ACC Limited,CEMS-4,931558.3334741379
+4,Aarti Steels Ltd,CEMS-1,1237923.0
+5,Aarti Steels Ltd,CEMS-2,1237923.0
+6,Aarti Steels Ltd,CEMS-3,3544515.0
+7,Aarti Steels Ltd,CEMS-4,3775424.285392856
+8,Aarti Steels Ltd,CEMS-5,3438675.0
+9,Aarti Steels Ltd,CEMS-6,3431075.724
+10,Aarti Steels Ltd,CEMS-7,1250268.3000000003
+11,Adhunik Metaliks Ltd.,CEMS-8,5445243.0
+12,Adhunik Metaliks Ltd.,CEMS-9,5445243.0
+13,Aditya Aluminium (A Unit of Hindalco Industries Limited),CEMS-1,452673.27
+14,Aditya Aluminium (A Unit of Hindalco Industries Limited),CEMS-10,420732.0
+15,Aditya Aluminium (A Unit of Hindalco Industries Limited),CEMS-2,466293.32360427297
+16,Aditya Aluminium (A Unit of Hindalco Industries Limited),CEMS-3,1691761.9458077033
+17,Aditya Aluminium (A Unit of Hindalco Industries Limited),CEMS-4,2135866.3307251683
+18,Aditya Aluminium (A Unit of Hindalco Industries Limited),CEMS-5,486837.0
+19,Aditya Aluminium (A Unit of Hindalco Industries Limited),CEMS-6,452673.0
+20,Aditya Aluminium (A Unit of Hindalco Industries Limited),CEMS-7,435591.0
+21,Aditya Aluminium (A Unit of Hindalco Industries Limited),CEMS-8,495378.0
+22,Aditya Aluminium (A Unit of Hindalco Industries Limited),CEMS-9,1375167.3246428573
+23,Aditya Kraft & Papers Pvt. Ltd.,CEMS-1,3187854.0
+24,Agrasen Sponge Private Limited,CEMS-1,1935215.0779874215
+25,Agrasen Sponge Private Limited,CEMS-2,1960761.3446540881
+26,Aryan Ispat and Power Pvt Ltd,CEMS-1,3844064.1330636605
+27,BRG Iron and Steel Co. Pvt. Ltd.,CEMS-2,1740337.9975531537
+28,BRG Iron and Steel Co. Pvt. Ltd.,CEMS-3,1035648.0
+29,Bhagawati Steels Pvt. Ltd.,CEMS-1,1441367.5177272728
+30,Bhaskar Steel and Ferro Alloy Limited,CEMS-1,439009.92
+31,Bhubaneshwar Power Pvt. Ltd.,CEMS-1,1394561.16275
+32,Bhubaneshwar Power Pvt. Ltd.,CEMS-2,1387727.6805
+33,Bhushan Energy Limited,CEMS-1,2741661.0
+34,Bhushan Energy Limited,CEMS-2,1150101.6564951355
+35,Bhushan Energy Limited,CEMS-3,1127425.17375
+36,Bhushan Power and Steel Limited,CEMS-12,452673.0
+37,Bhushan Power and Steel Limited,CEMS-13,452673.0
+38,Bhushan Power and Steel Limited,CEMS-14,1923109.7644032445
+39,Bhushan Power and Steel Limited,CEMS-15,1904831.3955
+40,Bhushan Power and Steel Limited,CEMS-16,1904643.0
+41,Bhushan Power and Steel Limited,CEMS-17,1862298.4434427016
+42,Bhushan Power and Steel Limited,CEMS-19,452673.0
+43,Bhushan Power and Steel Limited,CEMS-20,452673.0
+44,Bhushan Power and Steel Limited,CEMS-21,1651459.3678880953
+45,Bhushan Power and Steel Limited,CEMS-22,6098274.0
+46,Bhushan Power and Steel Limited,CEMS-23,427050.0
+47,Bhushan Power and Steel Limited,CEMS-24,427050.0
+48,Bhushan Power and Steel Limited,CEMS-25,1904831.3955
+49,Bhushan Power and Steel Limited,CEMS-26,1904643.0
+50,Bhushan Power and Steel Limited,CEMS-27,1889135.419196361
+51,Bhushan Power and Steel Limited,CEMS-28,1889135.419196361
+52,Bhushan Power and Steel Limited,CEMS-29,1889135.419196361
+53,Bhushan Power and Steel Limited,CEMS-30,1904968.2959662222
+54,Bhushan Power and Steel Limited,CEMS-31,1911118.3573755038
+55,Bhushan Power and Steel Limited,CEMS-32,1889135.4341963609
+56,Bhushan Power and Steel Limited,CPP130MWU-1,1862298.4434427016
+57,Bhushan Power and Steel Limited,CPP130MWU-2,1889135.419196361
+58,Bhushan Power and Steel Limited,CPP40MW,5817429.0
+59,Bhushan Power and Steel Limited,CPPUNIT-3,2469005.7892549923
+60,Bhushan Power and Steel Limited,DRI-5,1923109.7644032445
+61,Bhushan Power and Steel Limited,DRI-6,1879020.0
+62,Bhushan Power and Steel Limited,DRI-7,1904831.3955
+63,Bhushan Power and Steel Limited,DRI-8,1904643.0
+64,Bhushan Power and Steel Limited,PelletPlant,452673.0
+65,Bhushan Power and Steel Limited,PelletPlant-2,452673.0
+66,Bhushan Power and Steel Limited,WHRB-10,1706672.4285529528
+67,Bhushan Power and Steel Limited,WHRB-9,6098274.0
+68,Bhushan Steel Limited,CEMS-1,1162675.2216329165
+69,Bhushan Steel Limited,CEMS-11,1113602.490741637
+70,Bhushan Steel Limited,CEMS-12,1288946.0719112803
+71,Bhushan Steel Limited,CEMS-13,1076103.0
+72,Bhushan Steel Limited,CEMS-14,1219688.3150154233
+73,Bhushan Steel Limited,CEMS-2,2776140.5420000004
+74,Bhushan Steel Limited,CEMS-20,1189377.0
+75,Bhushan Steel Limited,CEMS-21,1146029.643857143
+76,Bhushan Steel Limited,CEMS-26,4941203.100000001
+77,Bhushan Steel Limited,CEMS-29,1536256.0861853259
+78,Bhushan Steel Limited,CEMS-3,3823589.990075111
+79,Bhushan Steel Limited,CEMS-30,3382236.0
+80,Bhushan Steel Limited,CEMS-31,1815547.500642857
+81,Bhushan Steel Limited,CEMS-6,1144494.0
+82,Bhushan Steel Limited,CEMS-7,1128427.9350746754
+83,Birla Tyres,CEMS-1,1302651.0
+84,Birla Tyres,CEMS-2,1353564.4844210113
+85,Birla Tyres,CEMS-3,1262196.0
+86,Concast Steel and Power Ltd.,CEMS-5,4085955.0
+87,Cracker India Alloys Limited,CEMS-1,1699110.0
+88,Emmami Paper Mills Limited,CEMS-1,1339793.412779523
+89,Emmami Paper Mills Limited,CEMS-2,1294560.0
+90,Essar Power (Odisha) Ltd.,CEMS-1,1323855.0
+91,Essar Power (Odisha) Ltd.,CEMS-2,1332770.8078306695
+92,Essar Steel India Limited,CEMS-1,1719584.932001248
+93,FACOR Power Limited,CEMS-1,1186201.1921063138
+94,GMR Kamalanga Energy Ltd,CEMS-1,1084707.0
+95,GMR Kamalanga Energy Ltd,CEMS-2,1563003.0
+96,GMR Kamalanga Energy Ltd,CEMS-3,1777529.6767973409
+97,Ganesh Sponge Pvt. Ltd,CEMS-1,687735.0
+98,Goa Carbon Limited,CEMS-1,1213838.9715
+99,Govindam Projects Pvt Ltd,CEMS-1,733673.495095601
+100,Grewal Associates Pvt. Ltd.,CEMS-2,5526153.0
+101,"HINDALCO Ltd., FRP Plant",CEMS-1,1093248.0
+102,"HINDALCO Ltd., FRP Plant",CEMS-2,503919.0
+103,"HINDALCO Ltd., FRP Plant",CEMS-3,503919.0
+104,"HINDALCO Ltd.,Captive Power Plant",CEMS-2,378001.0603909994
+105,"HINDALCO Ltd.,Captive Power Plant",CEMS-3,362047.69231885887
+106,"HINDALCO Ltd.,Captive Power Plant",CEMS-4,349023.6124719732
+107,"HINDALCO Ltd.,Captive Power Plant",CEMS-5,240490.39837778342
+108,"HINDALCO Ltd.,Smelter Plant",CEMS-1,566370.0
+109,"HINDALCO Ltd.,Smelter Plant",CEMS-2,574461.0
+110,"HINDALCO Ltd.,Smelter Plant",CEMS-3,477369.0
+111,"HINDALCO Ltd.,Smelter Plant",CEMS-4,453096.0
+112,"HINDALCO Ltd.,Smelter Plant",CEMS-5,428823.0
+113,Indian Farmers Fertilizer Coperative Ltd,CEMS-6,1704234.2670091256
+114,Indian Metal and Ferro Alloys Ltd,CEMS-5,5796306.0
+115,Indian Metal and Ferro Alloys Ltd,CEMS-6,1561563.0
+116,Indian Metal and Ferro Alloys Ltd (120 MW Power Plant),CEMS-1,1162874.5478699943
+117,Indian Metal and Ferro Alloys Ltd (120 MW Power Plant),CEMS-2,1436711.3814734914
+118,Indian Metal and Ferro Alloys Ltd (Charge Chrome Plant),CEMS-1,970920.0
+119,Indian Metal and Ferro Alloys Ltd (Charge Chrome Plant),CEMS-2,971956.8675917832
+120,Indian Metal and Ferro Alloys Ltd (Charge Chrome Plant),CEMS-3,1167543.3971884
+121,Indian Oil Corpation Limited,CEMS-1,1221741.0
+122,Indian Oil Corpation Limited,CEMS-11,1836657.0
+123,Indian Oil Corpation Limited,CEMS-12,2030841.0
+124,Indian Oil Corpation Limited,CEMS-13,1221741.0
+125,Indian Oil Corpation Limited,CEMS-14,1213650.0
+126,Indian Oil Corpation Limited,CEMS-15,2459664.0
+127,Indian Oil Corpation Limited,CEMS-16,1254105.0
+128,Indian Oil Corpation Limited,CEMS-17,2184570.0
+129,Indian Oil Corpation Limited,CEMS-18,4708962.0
+130,Indian Oil Corpation Limited,CEMS-19,1237923.0
+131,Indian Oil Corpation Limited,CEMS-2,3932226.0
+132,Indian Oil Corpation Limited,CEMS-21,2823759.0
+133,Indian Oil Corpation Limited,CEMS-22,1780020.0
+134,Indian Oil Corpation Limited,CEMS-3,1205559.0
+135,Indian Oil Corpation Limited,CEMS-4,1375470.0
+136,Indian Oil Corpation Limited,CEMS-5,1351197.0
+137,Indian Oil Corpation Limited,CEMS-6,1237923.0
+138,Indian Oil Corpation Limited,CEMS-7,2006568.0
+139,Indian Oil Corpation Limited,CEMS-9,5121603.0
+140,JK Paper LTD,CEMS-1,1266429.0304568983
+141,JK Paper LTD,CEMS-2,1272609.0
+142,JK Paper LTD,CEMS-3,4407637.327096096
+143,Jai Balaji Jyoti Steels Limited,CEMS-1,1788111.0
+144,Jai Balaji Jyoti Steels Limited,CEMS-2,590643.0
+145,Jay Jagannath Steel and Power Limited,CEMS-1,3924219.33
+146,Jay Jagannath Steel and Power Limited,CEMS-2,4045500.0
+147,Jindal India Thermal Power Ltd,CEMS-1,3835134.0
+148,Jindal India Thermal Power Ltd,CEMS-2,1642473.0
+149,Jindal Stainless Ltd,CEMS-1,1577745.0
+150,Jindal Stainless Ltd,CEMS-3,1553472.0
+151,Jindal Stainless Ltd,CEMS-4,1553472.0
+152,Jindal Stainless Ltd,CEMS-5,1246014.0
+153,Jindal Stainless Ltd,CEMS-6,1270287.0
+154,Jindal Stainless Ltd,CEMS-7,1310742.0
+155,Jindal Stainless Ltd,CEMS-8,1650564.0
+156,Jindal Steel and Power Limited,CEMS-1,1118871.0
+157,Jindal Steel and Power Limited,CEMS-10,1043739.0
+158,Jindal Steel and Power Limited,CEMS-12,1132740.0
+159,Jindal Steel and Power Limited,CEMS-15,4296321.0
+160,Jindal Steel and Power Limited,CEMS-2,2365857.0
+161,Jindal Steel and Power Limited,CEMS-21,5295420.0
+162,Jindal Steel and Power Limited,CEMS-22,3624768.0
+163,Jindal Steel and Power Limited,CEMS-23,1482180.4531668327
+164,Jindal Steel and Power Limited,CEMS-25,1577745.0
+165,Jindal Steel and Power Limited,CEMS-26,1585836.0
+166,Jindal Steel and Power Limited,CEMS-27,1593927.0
+167,Jindal Steel and Power Limited,CEMS-28,1676552.2029473681
+168,Jindal Steel and Power Limited,CEMS-29,1569654.0
+169,Jindal Steel and Power Limited,CEMS-3,1127412.0
+170,Jindal Steel and Power Limited,CEMS-30,1577745.0
+171,Jindal Steel and Power Limited,CEMS-33,1569654.0
+172,Jindal Steel and Power Limited,CEMS-34,1642473.0
+173,Jindal Steel and Power Limited,CEMS-35,1593927.0
+174,Jindal Steel and Power Limited,CEMS-36,1585836.0
+175,Jindal Steel and Power Limited,CEMS-37,1569654.0
+176,Jindal Steel and Power Limited,CEMS-4,2693524.653815887
+177,Jindal Steel and Power Limited,CEMS-5,1597167.0
+178,Jindal Steel and Power Limited,CEMS-6,1199922.7499350654
+179,Jindal Steel and Power Limited,CEMS-7,1145148.89246035
+180,Jindal Steel and Power Limited,CEMS-8,1127412.0
+181,Jindal Steel and Power Ltd,CEMS-1,1254105.0
+182,Jindal Steel and Power Ltd,CEMS-2,1278378.0
+183,Kamal Jeet Singh Ahluwalia,CEMS-1,1432107.0
+184,Kamal Jeet Singh Ahluwalia,CEMS-2,1440198.0
+185,Kamal Jeet Singh Ahluwalia,Stack-3,1725685.1734514155
+186,Kapilas Cement Manufacturing Works (A unit of OCL India Ltd),CEMS-1,1656954.0
+187,Karakola Sponge Iron Ltd.,CEMS-1,1281356.3564003594
+188,Karakola Sponge Iron Ltd.,CEMS-2,1405121.4886481562
+189,Kaushal Ferrometals Pvt. Ltd.,CEMS-1,768645.0
+190,Khedaria Ispat Ltd.,CEMS-1,1707827.3824836386
+191,L N Metallics Ltd,CEMS-1,2006568.0
+192,MGM Minerals Limited (Steel Division),CEMS-1,1105368.424426823
+193,MSP Sponge Iron Limited,CEMS-1,4951692.0
+194,MSP Sponge Iron Limited,CEMS-2,5170149.0
+195,MSP Sponge Iron Limited,CEMS-3,4944326.4
+196,Maa Shakumbari Sponge Pvt. Ltd.,CEMS-1,1771168.0350000001
+197,Mahakali Ispat Pvt. Ltd,CEMS-1,3705678.0
+198,Maithan Ispat Limited,CEMS-1,1278378.0
+199,Maithan Ispat Limited,CEMS-2,1257099.9785245988
+200,Mayur Electro Ceramics Pvt. Ltd.,CEMS-1,4984056.0
+201,Mayur Electro Ceramics Pvt. Ltd.,CEMS-2,5530242.881583666
+202,Meta Sponge Pvt. Ltd.,CEMS-1,1276818.9037456878
+203,Mideast Integrated Steels Ltd.,CEMS-1,1955624.1666039017
+204,Mideast Integrated Steels Ltd.,CEMS-2,1561563.0
+205,Mideast Integrated Steels Ltd.,CEMS-3,1569654.0
+206,N. K. Bhojani Pvt. Ltd.,CEMS-1,2967019.2575966907
+207,"NALCO Ltd.,Captive Power Plant",CEMS-1,1367415.6496457518
+208,"NALCO Ltd.,Captive Power Plant",CEMS-10,1116759.4345054943
+209,"NALCO Ltd.,Captive Power Plant",CEMS-2,2265480.0
+210,"NALCO Ltd.,Captive Power Plant",CEMS-3,1383561.0
+211,"NALCO Ltd.,Captive Power Plant",CEMS-4,1286469.0
+212,"NALCO Ltd.,Captive Power Plant",CEMS-5,4951823.598
+213,"NALCO Ltd.,Captive Power Plant",CEMS-6,4579506.0
+214,"NALCO Ltd.,Captive Power Plant",CEMS-8,3510351.0
+215,"NALCO Ltd.,Captive Power Plant",CEMS-9,1093248.0
+216,"NALCO Ltd.,Refinery",CEMS-1,485460.0
+217,"NALCO Ltd.,Refinery",CEMS-2,445005.0
+218,"NALCO Ltd.,Refinery",CEMS-4,3643905.568139377
+219,"NALCO Ltd.,Refinery",CEMS-5,687735.0
+220,"NALCO Ltd.,Refinery",CEMS-6,1472562.0
+221,"NALCO Ltd.,Refinery",CEMS-7,372186.0
+222,"NALCO Ltd.,Refinery",CEMS-9,663462.0
+223,"NALCO Ltd.,Smelter Plant",CEMS-10,1480653.0
+224,"NALCO Ltd.,Smelter Plant",CEMS-11,1359288.0
+225,"NALCO Ltd.,Smelter Plant",CEMS-2,4611870.0
+226,"NALCO Ltd.,Smelter Plant",CEMS-4,1043739.0
+227,"NALCO Ltd.,Smelter Plant",CEMS-5,2759031.0
+228,"NALCO Ltd.,Smelter Plant",CEMS-6,2483937.0
+229,"NALCO Ltd.,Smelter Plant",CEMS-7,1335015.0
+230,"NALCO Ltd.,Smelter Plant",CEMS-8,1682928.0
+231,"NALCO Ltd.,Smelter Plant",CEMS-9,1496835.0
+232,NTPC Limited (TSTPS),CEMS-3,1051830.0
+233,NTPC Limited (TSTPS),CEMS-5,1059921.0
+234,NTPC Limited (TSTPS),CEMS-6,1051830.0
+235,NTPC Limited (TTPS),CEMS-4,1149301.2825
+236,NTPC Limited (TTPS),CEMS-6,1043739.0
+237,NTPC Limited (TTPS),UNIT-1,1011375.0
+238,Narbheram Power and Steel Pvt. Ltd.,CEMS-1,906192.0
+239,Nava Bharat Ventures Ltd,CEMS-1,4825665.0
+240,Nava Bharat Ventures Ltd,CEMS-2,1042002.0
+241,Neelachal Ispat Nigam Limited,CEMS-3,3989324.8246153845
+242,Neelachal Ispat Nigam Limited,CEMS-4,4992147.0
+243,"OCL India Ltd,Cement Unit",CEMS--9,1735760.7514285715
+244,"OCL India Ltd,Cement Unit",CEMS-1,1728333.3666455243
+245,"OCL India Ltd,Cement Unit",CEMS-10,1752921.0
+246,"OCL India Ltd,Cement Unit",CEMS-2,1735479.0
+247,"OCL India Ltd,Cement Unit",CEMS-3,1735700.91975
+248,"OCL India Ltd,Cement Unit",CEMS-4,1699659.0
+249,"OCL India Ltd,Cement Unit",CEMS-5,1744665.0024253246
+250,"OCL India Ltd,Cement Unit",CEMS-6,1735479.0
+251,"OCL India Ltd,Cement Unit",CEMS-7,1744200.0
+252,"OCL India Ltd,Cement Unit",CEMS-8,1744200.0
+253,Odisha Power Generation Corporation LTD,CEMS-1,1173195.0
+254,Odisha Power Generation Corporation LTD,CEMS-2,598734.0
+255,Patnaik Minerals Pvt. Ltd.,CEMS-1,1569654.0
+256,Patnaik Minerals Pvt. Ltd.,CEMS-2,4369140.0
+257,Patnaik Steels and Alloys Ltd.,CEMS-1,1245311.0776595906
+258,Penguine Trading and Agencies Ltd(Seven Star),CEMS-1,3630607.6280853716
+259,Penguine Trading and Agencies Ltd(Seven Star),CEMS-2,3652676.7638391657
+260,Pooja Sponge Pvt. Ltd.,CEMS-1,1575069.0209533756
+261,Pooja Sponge Pvt. Ltd.,CEMS-2,5811336.0
+262,R. B. Sponge Pvt. Ltd.,CEMS-1,1852839.0
+263,Reliable Sponge Pvt. Ltd. (Bonai Unit),CEMS-1,419628.56669760996
+264,Reliable Sponge Pvt. Ltd.(KALUNGA),CEMS-1,1565868.6040197392
+265,Rexon Strips Ltd.,CEMS-1,473365.6911511604
+266,Rourkela Steel Plant,CEMS-1,1036524.3983173897
+267,Rourkela Steel Plant,CEMS-10,550188.0
+268,Rourkela Steel Plant,CEMS-11,3988602.0
+269,Rourkela Steel Plant,CEMS-12,787023.0
+270,Rourkela Steel Plant,CEMS-13,349826.1692864157
+271,Rourkela Steel Plant,CEMS-14,4393575.0
+272,Rourkela Steel Plant,CEMS-15,350198.3002516696
+273,Rourkela Steel Plant,CEMS-16,466101.0
+274,Rourkela Steel Plant,CEMS-17,345106.86600563914
+275,Rourkela Steel Plant,CEMS-18,375985.57006317424
+276,Rourkela Steel Plant,CEMS-19,343845.0
+277,Rourkela Steel Plant,CEMS-2,376057.7418590909
+278,Rourkela Steel Plant,CEMS-20,1344816.0
+279,Rourkela Steel Plant,CEMS-3,364759.47157389164
+280,Rourkela Steel Plant,CEMS-4,364465.42263932654
+281,Rourkela Steel Plant,CEMS-5,372186.0
+282,Rourkela Steel Plant,CEMS-6,1922610.0353225805
+283,Rourkela Steel Plant,CEMS-7,401427.0
+284,Rourkela Steel Plant,CEMS-8,393691.92715487455
+285,Rourkela Steel Plant,CEMS-9,3903776.584
+286,Rungta Mines Limited,CEMS-1,1585972.4980196906
+287,Rungta Mines Limited,CEMS-2,1376365.5
+288,Rungta Mines Limited,CEMS-3,1520153.5392857143
+289,Rungta Mines Limited,CEMS-4,695826.0
+290,Rungta Mines Limited,CEMS-5,2031551.685
+291,SMC Power Generation Limited,CEMS-2,1574767.7586428572
+292,Sakthi Sugars Limited,CEMS-1,4714497.0
+293,Sakthi Sugars Limited (Distillery),CEMS-1,2292300.0
+294,Samaleswari Ferro Metals Ltd,CEMS-1,4669455.190094018
+295,Scan Steels Limited (Unit-2),CEMS-1,1796686.8
+296,Scan Steels Limited (Unit-2),CEMS-2,1935613.5324440873
+297,Scan Steels Limited (Unit-2),CEMS-3,2026173.1328920503
+298,Scan Steels Limited (Unit-I),CEMS-1,1158797.8312272727
+299,Seeta Integrated Steel and Energy Ltd.,CEMS-1,1577745.0
+300,Seeta Integrated Steel and Energy Ltd.,CEMS-2,1197468.0
+301,Sesa Sterlite Ltd (IPP),CEMS-2,2734758.0
+302,Sesa Sterlite Ltd (IPP),CEMS-3,2572938.0
+303,Sesa Sterlite Ltd (IPP),CEMS-4,1682928.0
+304,Sesa Sterlite Ltd (Smelter and CPP),CEMS-10,2346390.0
+305,Sesa Sterlite Ltd (Smelter and CPP),CEMS-11,469278.0
+306,Sesa Sterlite Ltd (Smelter and CPP),CEMS-12,2750940.0
+307,Sesa Sterlite Ltd (Smelter and CPP),CEMS-13,453096.0
+308,Sesa Sterlite Ltd (Smelter and CPP),CEMS-14,1092285.0
+309,Sesa Sterlite Ltd (Smelter and CPP),CEMS-15,1132740.0
+310,Sesa Sterlite Ltd (Smelter and CPP),CEMS-16,5785065.0
+311,Sesa Sterlite Ltd (Smelter and CPP),CEMS-17,5348151.0
+312,Sesa Sterlite Ltd (Smelter and CPP),CEMS-18,5809338.0
+313,Sesa Sterlite Ltd (Smelter and CPP),CEMS-2,2467755.0
+314,Sesa Sterlite Ltd (Smelter and CPP),CEMS-20,5526153.0
+315,Sesa Sterlite Ltd (Smelter and CPP),CEMS-21,4320594.0
+316,Sesa Sterlite Ltd (Smelter and CPP),CEMS-22,4304412.0
+317,Sesa Sterlite Ltd (Smelter and CPP),CEMS-29,5542335.0
+318,Sesa Sterlite Ltd (Smelter and CPP),CEMS-3,2071296.0
+319,Sesa Sterlite Ltd (Smelter and CPP),CEMS-4,1513017.0
+320,Sesa Sterlite Ltd (Smelter and CPP),CEMS-5,1237923.0
+321,Sesa Sterlite Ltd (Smelter and CPP),CEMS-6,1480653.0
+322,Sesa Sterlite Ltd (Smelter and CPP),CEMS-7,1432107.0
+323,Sesa Sterlite Ltd (Smelter and CPP),CEMS-8,1488744.0
+324,Sesa Sterlite Ltd (Smelter and CPP),CEMS-9,1456380.0
+325,Sesa Sterlite Ltd (Smelter and CPP),CPP,5574699.0
+326,Shiv Mettalicks (P) Ltd,CEMS-2,987102.0
+327,Shiva Cement Ltd.,CEMS-1,4735157.521869388
+328,Shiva Cement Ltd.,stack-2,1569654.0
+329,Shiva Cement Ltd.,stack-3,4272175.256571429
+330,Shiva Cement Ltd.,stack-4,5809338.0
+331,Shree Ganesh Metalics(Kuarmunda),CEMS-3,396459.0
+332,Shree Hari Sponge Pvt. Ltd.,CEMS-1,2200752.0
+333,Shri Hardev Steels Pvt. Ltd,CEMS-1,1585836.0
+334,Shri Jagannath Steels and Power Ltd.,CEMS-2,1278378.0
+335,Shri Mahavir Ferro Alloys Pvt. Ltd.,CEMS-1,388368.0
+336,Shri Mahavir Ferro Alloys Pvt. Ltd.,CEMS-2,3325401.0
+337,Shri Mahavir Ferro Alloys Pvt. Ltd.,CEMS-3,1577745.0
+338,Shri Mahavir Ferro Alloys Pvt. Ltd.,CEMS-4,3147399.0
+339,Shyam Metalics and Energy Ltd,CEMS-2,2363524.29
+340,Shyam Metalics and Energy Ltd,CEMS-3,453096.0
+341,Shyam Metalics and Energy Ltd,CEMS-4,420732.0
+342,Shyam Metalics and Energy Ltd,CEMS-6,792918.0
+343,Shyam Metalics and Energy Ltd,CEMS-7,802376.41
+344,Shyam Metalics and Energy Ltd,CEMS-8,792918.0
+345,Shyam Metalics and Energy Ltd,CEMS-9,1165104.0
+346,Sponge Udyog Pvt. Ltd.,CEMS-1,415262.67238010175
+347,Sree Metaliks Ltd,CEMS-1,1288105.4936892926
+348,Sree Metaliks Ltd,CEMS-2,1739576.8018032787
+349,Sree Metaliks Ltd,CEMS-4,5795479.734641149
+350,Sree Metaliks Ltd,CEMS-5,213929415.0
+351,Sri Balaji Metallics Pvt. Ltd.,CEMS-1,2629575.0
+352,Sumrit Metaliks Pvt. Ltd.,CEMS-1,2075454.8507411594
+353,Suraj Products Pvt. Ltd.,CEMS - 2,2690286.526412873
+354,Suraj Products Pvt. Ltd.,CEMS-1,632021.1992635669
+355,Surendra Mining Industries (P) Ltd.,CEMS-1,4973364.779195913
+356,Surendra Mining Industries (P) Ltd.,CEMS-2,1027557.0
+357,Swastik Ispat Pvt. Ltd.,CEMS-1,2249298.0
+358,Swastik Ispat Pvt. Ltd.,CEMS-2,2014659.0
+359,TATA STEEL KALINGANAGAR,CEMS-,1246014.0
+360,TATA STEEL KALINGANAGAR,CEMS-1,1435575.9117826684
+361,TATA STEEL KALINGANAGAR,CEMS-10,1443429.0
+362,TATA STEEL KALINGANAGAR,CEMS-11,5340060.0
+363,TATA STEEL KALINGANAGAR,CEMS-13,1306773.0
+364,TATA STEEL KALINGANAGAR,CEMS-14,1315314.0
+365,TATA STEEL KALINGANAGAR,CEMS-15,2596464.0
+366,TATA STEEL KALINGANAGAR,CEMS-16,1392183.0
+367,TATA STEEL KALINGANAGAR,CEMS-2,2698956.0
+368,TATA STEEL KALINGANAGAR,CEMS-3,1327611.3473900792
+369,TATA STEEL KALINGANAGAR,CEMS-4,5043060.0
+370,TATA STEEL KALINGANAGAR,CEMS-5,2331714.63
+371,TATA STEEL KALINGANAGAR,CEMS-6,1366560.0
+372,TATA STEEL KALINGANAGAR,CEMS-7,1332396.0
+373,TATA STEEL KALINGANAGAR,CEMS-8,1315314.0
+374,TATA STEEL KALINGANAGAR,CEMS-9,1306773.0
+375,TRChemicals Ltd.,CEMS-1,396549.71035714285
+376,Tata Sponge Iron Ltd,CEMS-1,1877112.0
+377,Tata Sponge Iron Ltd,CEMS-2,1318833.0
+378,Tata Sponge Iron Ltd,CEMS-3,1417652.8983
+379,Thakur Prasad Sao and Sons Pvt. Ltd.,CEMS-1,1165104.0
+380,Thakur Prasad Sao and Sons Pvt. Ltd.,CEMS-2,2149542.1010848586
+381,Times Steel and Power Pvt. Ltd.,CEMS-1,3404013.6521030637
+382,Toshali Cement Private Limited,CEMS-1,3244212.0
+383,UltraTech Cement Ltd.,CEMS-1,1796526.0
+384,UltraTech Cement Ltd.,CEMS-2,1796785.6796945701
+385,Utkal Alumina International Ltd,CEMS-1,428823.0
+386,Utkal Alumina International Ltd,CEMS-2,493551.0
+387,Utkal Alumina International Ltd,CEMS-3,412641.0
+388,Utkal Alumina International Ltd,CEMS-4,518335.7986023184
+389,Utkal Alumina International Ltd,CEMS-5,469278.0
+390,Utkal Metallics Limited,CEMS-1,1587794.6794766972
+391,VISA SunCoke Limited,CEMS-1,5323878.0
+392,VISA SunCoke Limited,CEMS-2,1286469.0
+393,VasundharaMetaliksPvt.Ltd.,CEMS-1,5785065.0
+394,VasundharaMetaliksPvt.Ltd.,CEMS-2,3017998.6714285715
+395,Vedanta Ltd.,CEMS-1,728821.7586255413
+396,Viraj Steel and Energy Ltd.,CEMS-1,420732.0
+397,Viraja Steel & Power Private Limited,CEMS-1,1087640.0220199688
+398,Visa Steel Limited,CEMS-1,3260673.0
+399,Visa Steel Limited,CEMS-2,2985579.0
+400,Visa Steel Limited,CEMS-3,5801247.0
+401,Visa Steel Limited,CEMS-4,1682928.0
+402,Visa Steel Limited,CEMS-5,4126410.0
+403,Vishal Metallics Pvt Ltd,CEMS-1,1056976.994958077
+404,Yazdani Steel and Power Limited,CEMS-1,1413174.7727144093
+405,Yazdani Steel and Power Limited,CEMS-2,1205559.0
